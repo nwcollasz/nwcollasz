@@ -1,6 +1,6 @@
 # Nicollas 🦾💻
 
-Tecnólogo em Automação Industrial e desenvolvedor C# / .NET em formação. Busco alinhar a lógica de processos da indústria com o desenvolvimento de software para criar aplicações eficientes.
+Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em formação. Busco alinhar a lógica de processos da indústria com o desenvolvimento de software para criar aplicações eficientes.
 
 ---
 
@@ -13,7 +13,7 @@ Tecnólogo em Automação Industrial e desenvolvedor C# / .NET em formação. Bu
 
 **Linguagens & Frameworks:** 
  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![.NET 10](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+ ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 **Ambientes de Desenvolvimento (IDEs):** 
  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
