@@ -1,8 +1,7 @@
-# Nicollas Bento 💻📚
+# Nicollas Bento 🏭🖥
+![IFSP](https://img.shields.io/badge/Automação_Industrial-IFSP-2f9e41?style=flat-square&logo=github&logoColor=white&labelColor=222222)
 
-Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em formação. Busco alinhar a lógica de processos da indústria com o desenvolvimento de software para criar aplicações eficientes.
-
----
+Estudante de Tecnologia em Automação Industrial e desenvolvedor C# em formação. Minha trajetória na tecnologia ganhou força no IFSP durante as aulas de programação I e II, onde me interessei pela lógica e OOP. Hoje, aos 19 anos, sigo desenvolvendo esse interesse: estou focado em aprofundar meus conhecimentos em desenvolvimento backend com o ecossistema .NET e em encontrar formas de aplicar essa inteligência de software ao mundo da automação industrial.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-banta)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollaszb)
@@ -10,16 +9,12 @@ Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em f
 
 ---
 
-### 🚀 No que estou trabalhando e aprendendo
-* **APIs & Integrações:** Construção de Web APIs RESTful estruturadas, consumo de APIs externas, manipulação de JSON e deploy em produção.
-* **Fundamentos do Ecossistema:** Conceitos essenciais como injeção de dependência, inversão de controle, tratamento global de erros e boas práticas de arquitetura em camadas.
----
-
 ### 🛡️ Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
