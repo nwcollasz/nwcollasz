@@ -31,7 +31,6 @@ Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em f
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwcollasz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&theme=dark" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwcollasz&theme=dark" alt="GitHub Streak Stats" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&theme=dark" alt="Most Used Languages" height="180px"/>
 </p>
-
