@@ -1,6 +1,12 @@
-# Nicollas 🦾💻
+# Nicollas Bento 💻📚
 
 Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em formação. Busco alinhar a lógica de processos da indústria com o desenvolvimento de software para criar aplicações eficientes.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-banta)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollaszb)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:collas.b@aluno.ifsp.edu.br)
 
 ---
 
@@ -9,24 +15,23 @@ Estudante de Tecnologia em Automação Industrial e desenvolvedor C# / .NET em f
 * **Fundamentos do Ecossistema:** Conceitos essenciais como injeção de dependência, inversão de controle, tratamento global de erros e boas práticas de arquitetura em camadas.
 ---
 
-### 🛠️ Ferramentas
+### 🛡️ Linguagens e Tecnologias
 
-**Linguagens & Frameworks:** 
- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-**Ambientes de Desenvolvimento (IDEs):** 
- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
- ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Controle de Versão & Deploy (Nuvem):** 
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
 
 ---
 
-### 💬 Contato
-* **LinkedIn:** [Nicollas Bento](https://www.linkedin.com/in/nicollas-bento-9170703b1/)
-* **E-mail:** `nicollasbcorrea@gmail.com`
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nwcollasz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&theme=dark" alt="Top Langs" height="180px"/>
+</p>
+
