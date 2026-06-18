@@ -1,7 +1,7 @@
 # Nicollas Bento 🏭🖥
 ![IFSP](https://img.shields.io/badge/Automação_Industrial-IFSP-2f9e41?style=flat-square&logo=github&logoColor=white&labelColor=222222)
 
-Estudante de Tecnologia em Automação Industrial e desenvolvedor C# em formação. Minha trajetória na tecnologia ganhou força no IFSP durante as aulas de programação I e II, onde me interessei pela lógica e OOP. Hoje, aos 19 anos, sigo desenvolvendo esse interesse: estou focado em aprofundar meus conhecimentos em desenvolvimento backend com o ecossistema .NET e em encontrar formas de aplicar essa inteligência de software ao mundo da automação industrial.
+Graduando em Automação Industrial e desenvolvedor C# em formação. Minha trajetória na tecnologia ganhou força no IFSP durante as aulas de programação I e II, onde me interessei pela lógica e OOP. Hoje, aos 19 anos, sigo desenvolvendo esse interesse: estou focado em aprofundar meus conhecimentos em desenvolvimento backend com o ecossistema .NET e em encontrar formas de aplicar essa inteligência de software ao mundo da automação industrial.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-banta)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollaszb)
