@@ -15,7 +15,4 @@ Minha trajetória começou forte na programação por conta das aulas de lógica
 </p>
 
 ---
-  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" style="margin-right: 15px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwcollasz&theme=tokyonight" alt="Status do github" height="165px" style="margin-left: 50px;"/>
-</p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&langs_count=7&theme=tokyonight" height="165px" />          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nwcollasz&show_icons=true&theme=tokyonight&include_all_commits=true" height="165px" /> 
