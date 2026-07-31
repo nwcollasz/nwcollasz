@@ -1,7 +1,7 @@
 # Nicollas Bento 🏭🖥    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollasbento11) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollaszb) [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollasbcorrea@gmail.com)
 Graduando em Automação Industrial no IFSP Cubatão e entusiasta de tecnologia.
 
-Minha trajetória começou forte na programação por conta das aulas de lógica e POO no instituto, onde peguei gosto pelo ecossistema .NET. Hoje, aos 20 anos, divido meu foco em duas frentes que se complementam: aprofundar meus conhecimentos em desenvolvimento backend C# e encontrar formas de aplicar essa inteligência de software no mundo real da automação industrial — seja integrando sistemas, lidando com hardware ou analisando circuitos.
+Atualmente, concentro meus estudos na união entre o desenvolvimento de software e o mundo físico. Divido meu foco em duas frentes complementares: o aprofundamento em desenvolvimento backend com C# e .NET, e a aplicação dessa inteligência na automação industrial. Na prática, busco conectar sistemas, trabalhar diretamente com hardware e analisar circuitos para criar soluções eficientes.
 
 ---
 
