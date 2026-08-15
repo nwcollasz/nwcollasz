@@ -1,4 +1,7 @@
-# Nicollas Bento 🏭🖥    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤ  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollasbento11) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicollaszb) [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicollasbcorrea@gmail.com)
+<h1 align="left">
+  Nicollas Bento 💻🛳🏭
+  <a href="https://linkedin.com/in/nicollasbento11"><img src="https://github.com/user-attachments/assets/8bb919c1-1ebf-496c-932e-6ae6983c2339" width="35" height="35" alt="LinkedIn" align="right"></a><a href="https://instagram.com/nicollaszb"><img src="https://github.com/user-attachments/assets/88a3926c-d58f-452d-a9a1-29d18e47d576" width="35" height="35" alt="Instagram" align="right"></a><a href="mailto:nicollasbcorrea@gmail.com"><img src="https://github.com/user-attachments/assets/4d17b688-d2da-4c26-b262-ca41f16bc56b" width="35" height="35" alt="Email" align="right"></a>
+</h1>
 Graduando em Automação Industrial no IFSP Cubatão e entusiasta de tecnologia.
 
 Atualmente, concentro meus estudos na união entre o desenvolvimento de software e o mundo físico. Divido meu foco em duas frentes complementares: o aprofundamento em desenvolvimento backend com C# e .NET, e a aplicação dessa inteligência na automação industrial. Na prática, busco conectar sistemas, trabalhar diretamente com hardware e analisar circuitos para criar soluções eficientes.
@@ -6,13 +9,9 @@ Atualmente, concentro meus estudos na união entre o desenvolvimento de software
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="100" height="100"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="100" height="100"/>
+<img width="100" height="100" alt="fluidsimpng-removebg-preview" src="https://github.com/user-attachments/assets/03bba17d-93fa-4cb1-bd6c-23df5a2099d4" />
+  <img width="100" height="100" alt="images-removebg-preview" src="https://github.com/user-attachments/assets/21945085-ae94-4ec9-b00a-416adcbe5d84" />
+<img width="100" height="100" alt="shell-removebg-preview" src="https://github.com/user-attachments/assets/8936feab-f45c-44e5-be5a-73881166ac78" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100" alt="Git">
 </p>
-
----
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nwcollasz&layout=compact&langs_count=7&theme=tokyonight" height="165px" />          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nwcollasz&show_icons=true&theme=tokyonight&include_all_commits=true" height="165px" /> 
