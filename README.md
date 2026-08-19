@@ -1,10 +1,12 @@
-# Nicollas Bento 🏭💻
+## Nicollas Bento 🏭💻
 <p align="left">
   <a href="https://linkedin.com/in/nicollasbento11"><img src="https://github.com/user-attachments/assets/8bb919c1-1ebf-496c-932e-6ae6983c2339" width="35" height="35" alt="LinkedIn"></a>
   &nbsp;
   <a href="https://instagram.com/nicollaszb"><img src="https://github.com/user-attachments/assets/88a3926c-d58f-452d-a9a1-29d18e47d576" width="35" height="35" alt="Instagram"></a>
-  &nbsp;
-  <a href="mailto:nicollasbcorrea@gmail.com"><img src="https://github.com/user-attachments/assets/4d17b688-d2da-4c26-b262-ca41f16bc56b" width="35" height="35" alt="Email"></a>
+    &nbsp;
+    <a href="mailto:nicollasbcorrea@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" height="35" alt="Email"></a>
+
+
 </p>
 
 Graduando em Automação Industrial no IFSP Campus Cubatão e entusiasta de tecnologia.
